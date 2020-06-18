@@ -1,15 +1,5 @@
 # Clock-Android-App-in-Java
 This Is an Android app with the functionality of an Alarm Clock, made in Android Studio
-# Clock
-_Here is it_
-
-<div align="center">
-  <img src="screenshots/screenshot-1.png" width="350px" />
-  <img src="screenshots/screenshot-2.png" width="350px" />
-  <img src="screenshots/screenshot-3.png" width="350px" />
-  <img src="screenshots/screenshot-4.png" width="350px" />
-  <img src="screenshots/screenshot-5.png" width="350px" />
-</div> <br />
 
 _Clock - a time app for Android on Java. This app contains alarm, timer and stopwatch._
 
